@@ -54,7 +54,7 @@ export const PaymentCardForm = () => {
           new Date().setFullYear(new Date().getFullYear() + 1)
         ).toISOString(),
       },
-      back_url: "https://4692-181-167-42-111.ngrok-free.app/success",
+      back_url: "https://vino-club.vercel.app//success",
       reason: "Suscripción Caja Mensual Vino Rodante",
       external_reference: "YG-1234",
       status: "authorized",
